@@ -9,4 +9,4 @@ In addition, the following packages are required:
 * statsmodels==0.13.5
 * vtk==9.1.0
 
-Download the original code and place files in the corresponding directories.
+Download the original code and build package, then place files in the corresponding directories.
