@@ -12,3 +12,5 @@ In addition, the following packages are required:
 * vtk==9.1.0
 
 Download the original code and build package, then place files in the corresponding directories.
+
+Note that there is an error in the Jupyter Notebook that the rotation matrix should be transposed in one of the lines when calculating the velocities in the coordinate frame of the cell. I have not yet had the time to correct this error and redo the analysis.
